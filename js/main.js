@@ -1,12 +1,14 @@
 
 
 const images = [
-    // "/assets/img/categories-item1.gif",
+    "/assets/img/categories-item1.gif",
     "/assets/img/categories-item2.jpg",
     "/assets/img/categories-item3.jpg",
     "/assets/img/categories-item4.jpg",
     "/assets/img/categories-item5.jpg",
-    // "/assets/img/categories-item6.gif",
+    "/assets/img/categories-item6.gif",
+    "/assets/img/categories-item7.gif",
+    "/assets/img/categories-item8.gif"
 ];
 
 let currentIndex = 0;
